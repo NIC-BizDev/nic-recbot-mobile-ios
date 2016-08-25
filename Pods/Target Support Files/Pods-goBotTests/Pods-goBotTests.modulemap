@@ -1,0 +1,6 @@
+framework module Pods_goBotTests {
+  umbrella header "Pods-goBotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
